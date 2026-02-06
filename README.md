@@ -4,6 +4,8 @@ Tasteful OLED black theme for Firefox
 
 ![Screenshot](screenshot.png)
 
+[![Get the addon from Firefox Add-Ons](https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/en-US/firefox/addon/elegant-oled-black-theme/)
+
 ## Development
 
 1. Optional: Install [Firefox Developer Edition](https://www.firefox.com/en-US/channel/desktop/developer/) for debugging
