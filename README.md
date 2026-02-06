@@ -2,6 +2,8 @@
 
 Tasteful OLED black theme for Firefox
 
+![Screenshot](screenshot.png)
+
 ## Development
 
 1. Optional: Install [Firefox Developer Edition](https://www.firefox.com/en-US/channel/desktop/developer/) for debugging
