@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Elegant Black Theme",
+  "description": "Tasteful OLED black theme for Firefox",
+  "author": "nikkehtine",
+  "homepage_url": "https://github.com/nikkehtine/firefox-elegant-black-theme",
+  "theme": {
+    "colors": {
+      "frame": "black",
+      "frame_inactive": "black",
+      "toolbar": "black",
+      "toolbar_text": "#ddd",
+      "toolbar_bottom_separator": "transparent",
+      "bookmark_text": "#ddd",
+      "tab_background_text": "#ddd",
+      "tab_text": "#eee",
+      "tab_selected_text": "#fefefe",
+      "tab_selected": "#181818",
+      "tab_line": "transparent",
+      "button_background_hover": "#222",
+      "button_background_active": "#1b1b1b",
+      "icons_attention": "#eee",
+      "toolbar_field": "black",
+      "toolbar_field_text": "#ddd",
+      "toolbar_field_border": "transparent",
+      "toolbar_field_highlight": "#3f3f3f",
+      "toolbar_field_focus": "black",
+      "toolbar_field_focus_text": "#eee",
+      "popup": "black",
+      "popup_highlight": "#2b2b2b",
+      "popup_border": "#181818",
+      "sidebar": "black",
+      "sidebar_border": "#181818",
+      "sidebar_highlight": "#2b2b2b",
+      "sidebar_text": "#eee",
+      "sidebar_highlight_text": "#eee",
+      "ntp_background": "black",
+      "ntp_text": "#eee",
+      "ntp_card_background": "#181818"
+    }
+  }
+}
